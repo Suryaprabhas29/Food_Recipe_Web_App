@@ -1,4 +1,4 @@
-# Food-recipe-app
+# Food_Recipe_Web_App
 This is a food recipe application which searches different dishes based on the ingredients.This application is designed using HTML,CSS,Vanilla JS and Web APIs.
 
 [https://FoodWorldOfRecipes.com](https://suryaprabhas29.github.io/food_recipe_web_app/)
